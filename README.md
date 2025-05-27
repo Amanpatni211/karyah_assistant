@@ -31,7 +31,7 @@ All processing happens locally on your machine, ensuring your chat data remains 
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/yourusername/telegram-personal-assistant.git
+git clone https://github.com/Amanpatni211/karyah_assistant.git
 cd telegram-personal-assistant
 ```
 
